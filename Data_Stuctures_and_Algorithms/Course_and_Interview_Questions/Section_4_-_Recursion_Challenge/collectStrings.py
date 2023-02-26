@@ -26,4 +26,4 @@ obj = {
     }
 }
 
-print(collectStrings(obj)  # ['foo', 'bar', 'baz'])
+print(collectStrings(obj))  # ['foo', 'bar', 'baz'])
